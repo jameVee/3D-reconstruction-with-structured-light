@@ -12,3 +12,8 @@ setup-act/setup-photo.jpg
 *.docx
 ~$*
 Lab 08 - 3D reconstruction.pdf
+
+# not published
+L08-solution-annotated.ipynb
+L08-template.ipynb
+positioning.txt
